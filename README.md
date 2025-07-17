@@ -1,23 +1,32 @@
-# CREDIT CARD WEEKLY REPORT-ANALYSIS-
+# Credit Card Usage & Performance Dashboard
 
-OVERVIEW--
+This project demonstrates an end-to-end data analytics pipeline for credit card transaction data using **SQL**, **Excel**, and **Power BI**.
 
-This project demonstrates an end-to-end data analysis pipeline for credit card transaction data using SQL, Excel, and Power BI. The goal is to build a comprehensive and interactive dashboard that enables stakeholders to monitor key metrics and trends related to credit card usage, performance, and customer behavior.
-The dashboard is designed to provide WEEKLY insights, allowing real-time tracking of revenue, transactions, customer engagement, and risk metrics on a recurring basis.
+## 🚀 Objective
+Build an interactive dashboard for weekly tracking of:
+- Revenue & transaction trends
+- Card usage behavior
+- Customer segmentation (gender & region)
+- Delinquency & activation rates
 
-#OBJECTIVE--
+## 📊 Tools Used
+- SQL (for data cleaning & joins)
+- Excel (initial analysis)
+- Power BI (final dashboard and visualizations)
 
---Analyze Credit Card Usage Patterns
---Track Revenue and Transaction Trends
---Segment Customers Based on Demographics(gender and region).
---Evaluate Card Type Performance
---Identify High-Contributing States
---Monitor Activation and Delinquency Rates
---Build an Interactive Dashboard for Business Stakeholders
---Apply End-to-End Data Analytics Skills
+## 📁 Files in this Repo
+- `credit_card.csv`, `cust_add.csv`, etc. – Raw datasets
+- `credit_card_report.pbix` – Main Power BI file
+- `credit_card_weekly_report_overview.pdf` – PDF export of the dashboard
+- `credit_card_customer_dashboard.pdf` – Detailed customer insights
 
+## 🧠 Key Insights
+- Identified top-performing states by revenue
+- Segmented customers by region and gender
+- Monitored delinquency trends over time
 
-# Tools & Technologies Used
---PostgreSQL 	
---Microsoft Excel
---Power BI
+## 🔗 Live Dashboard (if hosted)
+*(Optional: Add a Power BI public link if you publish it)*
+
+## 📌 Author
+Amit | [GitHub](https://github.com/amitkk98)
